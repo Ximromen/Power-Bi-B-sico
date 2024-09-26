@@ -1,2 +1,2 @@
-# Power-Bi-B-sico
+# Power-Bi-Basico
 Curso Power BI
